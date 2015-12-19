@@ -1,0 +1,43 @@
+<Spinner
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:layout_gravity="center_vertical"
+                        
+                        android:entries="@array/salaryOption"/>
+
+
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:layout_marginTop="16dp"
+                        android:orientation="vertical"
+                        android:weightSum="2">
+
+                        <TextView
+                            android:id="@+id/salarySelectorDay"
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:background="@color/transparent"
+                            android:text="DAY"
+                            android:textSize="16dp"
+                            android:textStyle="bold"
+                            android:gravity="center"
+                            android:textColor="@color/red" />
+
+                        <TextView
+                            android:id="@+id/salarySelectorWeek"
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:background="@color/transparent"
+                            android:text="WEEK"
+                            android:textSize="16dp"
+                            android:gravity="center"
+                            android:textStyle="bold"
+                            android:textColor="@color/grey" />
+                    </LinearLayout>
+                </LinearLayout>

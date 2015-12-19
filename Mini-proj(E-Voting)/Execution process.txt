@@ -1,0 +1,14 @@
+After you are done with Readme part by now app will be running in your mobile .
+
+Create 2 tables in database "voting" .
+1. users
+2. party_details ..
+
+Thir description is provided in ppt .
+
+Now add new users to "user" table . These users can only login to the app . Which are stored in databse .
+
+Now the app after your successful login will provide the party list . Now you jst have to click on vote to a party , and its done .
+
+Now if you check the databse again . 
+user table will be updated , and the user you voed with will show number of party you voted for .

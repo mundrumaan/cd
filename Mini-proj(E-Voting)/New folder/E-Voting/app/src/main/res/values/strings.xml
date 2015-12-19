@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">E-Voting</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="rtv_label_link"><u>Why To Vote?</u></string>
+
+
+
+    <string name="rtv_string_res">(1) No person who is not, and except as expressly provided by this Act, every person who is, for the time being entered in the electoral roll of any constancy shall be entitled to vote in that constituency.
+        <br/>(2) No person shall vote at an election in any constituency if he is, subject to any of the disqualifications referred to in section 16 of the Representation of the People Act, 1950 (43 of 1950)
+        /n(3) No person shall vote at a General Election in more than one constituency of the same class and if a person votes in more than one such constituency, his votes in all such constituencies shall be void.
+        /n(4) No person shall at any election vote in the same constituency more than once, notwithstanding that his name may have been registered in the electoral roll for that constituency more than once, and if he does so vote, all his votes in that constituency shall be void.
+        /n(5) No person shall vote at any election if he is confined in a prison whether under a sentence of imprisonment or transportation or otherwise or is in the lawful custody of the police:Provided that nothing in this sub-section shall apply to a person subjected to preventive detention under any law for the time being in force.</string>
+    <string name="title_activity_party_list">Parties</string>
+</resources>
